@@ -1,3 +1,6 @@
+'''
+https://leetcode.com/problems/pascals-triangle/description/
+'''
 class Solution:
     keystore = {}
     @staticmethod
